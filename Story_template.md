@@ -5,6 +5,13 @@
 ## Description :
 [Narrative text describing the scene]
 
+## Possible outputs :
+
+- Interaction1 TO Scene4  
+- Interaction2 TO Scene3
+- Interaction3 TO Scene6
+
+
 ## Reference images (art direction)
 ![color palette](/assets/referenceImages/Scene1_colors.jpg)
 ![ethereal atmos](/assets/referenceImages/Scene1_atmosphere.jpg)
@@ -37,10 +44,5 @@ Video description :
 ### Local right
 <audio src="/assets/audios/scene1_right.mp4"></audio>
 
-# Possible outputs :
-
-- Interaction1 TO Scene4  
-- Interaction2 TO Scene3
-- Interaction3 TO Scene6
 
 ---
